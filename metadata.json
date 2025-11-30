@@ -1,0 +1,7 @@
+{
+  "name": "Fútbol Analytics AI",
+  "description": "Herramienta de análisis deportivo que utiliza IA para procesar imágenes de partidos de fútbol y generar proyecciones estadísticas avanzadas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
